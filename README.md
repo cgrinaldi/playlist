@@ -23,37 +23,37 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [x] Repeat these steps for song artist, song length, image, and link
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 2
 
 ## JavaScript
-- [ ] Add song information to your list using .push()
-- [ ] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
+- [x] Add song information to your list using .push()
+- [x] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ## JavaScript
-- [ ] Comment out your code that refers to arrays
-- [ ] Create Objects in your playlist project that hold all your song information
-- [ ] Combine all your Objects into one array
+- [x] Comment out your code that refers to arrays
+- [x] Create Objects in your playlist project that hold all your song information
+- [x] Combine all your Objects into one array
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 4
 
 ## JavaScript
 
-- [ ] Update your .push() method based on your new array of Objects
-- [ ] Update your loop based on your new array of Objects
-- [ ] Finish refactoring your playlist project
+- [x] Update your .push() method based on your new array of Objects
+- [x] Update your loop based on your new array of Objects
+- [x] Finish refactoring your playlist project
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Project Extensions:
 - [ ] Add in your own CSS to personalize your project
