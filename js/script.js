@@ -26,19 +26,27 @@ function emptySongInfo() {
     $('#linkList').empty();
 }
 
-$('#add').click(function() {
-    // get user input from input boxes
+function getUserInput() {
     let title = $('#title').val();
     let artist = $('#artist').val();
     let image = $('#image').val();
     let link = $('#link').val();
 
-    // add to song arrays via .push()
+    return [title, artist, image, link]
+}
+
+function saveUserInput(userInput) {
+    let [title, artist, image, link] = userInput
     myTitles.push(title);
     myArtists.push(artist);
     songImgs.push(image);
     songLinks.push(link);
+}
 
+
+$('#add').click(function() {
+    userInput = getUserInput();
+    saveUserInput(userInput);
     emptySongInfo();
     displaySongInfo();
 })
